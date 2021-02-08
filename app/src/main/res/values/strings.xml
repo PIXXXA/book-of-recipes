@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BookOfRecipes</string>
+    <string name="app_name_title">Book Of Recipes</string>
+
+    <!-- Main Menu Fragment -->
+    <string name="image_view_description">Image of a dish</string>
 </resources>

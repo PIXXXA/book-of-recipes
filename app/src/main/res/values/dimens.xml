@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Main Menu Fragment-->
+    <dimen name="main_menu_padding">8dp</dimen>
+    <dimen name="cardview_corner_radius">16dp</dimen>
+</resources>
